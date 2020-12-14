@@ -31,7 +31,7 @@ Grant DePalma's Resume
 [HEART CAPITAL](https://heartcap.io)   
 [Max Potential](https://maxpotential.community)   
 [GHOST FINANCIAL](https://ghost.financial)    
-[Personal](https://grantdepalma.com)   
+ 
 
 
 
