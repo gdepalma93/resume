@@ -23,14 +23,9 @@ Grant DePalma's Resume
   - Burlsworth Trophy Nominee given to best Walk-On in NCAAF D1, Bahamas Bowl Defensive MVP, D-1 Athletic Scholarship
 
 ***Social Links***    
-[Github]("https://github.com/gdepalma93")    
-[LinkedIn]("https://www.linkedin.com/in/grant-depalma-159042167/")  
+[Github](https://github.com/gdepalma93)    
+[LinkedIn](https://www.linkedin.com/in/grant-depalma-159042167/)  
 
-***Websites/Projects***  
-[WIN Performance](https://winperformance.io/)        
-[HEART CAPITAL](https://heartcap.io)   
-[Max Potential](https://maxpotential.community)   
-[GHOST FINANCIAL](https://ghost.financial)    
  
 
 
