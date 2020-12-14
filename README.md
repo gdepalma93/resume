@@ -22,11 +22,11 @@ Grant DePalma's Resume
   - Starting at Middle Linebacker on football team (301 career tackles).   
   - Burlsworth Trophy Nominee given to best Walk-On in NCAAF D1, Bahamas Bowl Defensive MVP, D-1 Athletic Scholarship
 
-***Social Links***   
+***Social Links***    
 [Github]("https://github.com/gdepalma93")    
 [LinkedIn]("https://www.linkedin.com/in/grant-depalma-159042167/")  
 
-***Websites/Projects*** 
+***Websites/Projects***   
 [WIN Performance]("https://winperformance.io/")        
 [HEART CAPITAL]("https://heartcap.io")   
 [Max Potential]("https://maxpotential.community")   
