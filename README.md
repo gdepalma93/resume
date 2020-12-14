@@ -26,12 +26,12 @@ Grant DePalma's Resume
 [Github]("https://github.com/gdepalma93")    
 [LinkedIn]("https://www.linkedin.com/in/grant-depalma-159042167/")  
 
-***Websites/Projects***   
-[WIN Performance]("https://winperformance.io/")        
-[HEART CAPITAL]("https://heartcap.io")   
-[Max Potential]("https://maxpotential.community")   
-[GHOST FINANCIAL]("https://ghost.financial")    
-[Personal]("https://grantdepalma.com")   
+***Websites/Projects***  
+[WIN Performance](https://winperformance.io/)        
+[HEART CAPITAL](https://heartcap.io)   
+[Max Potential](https://maxpotential.community)   
+[GHOST FINANCIAL](https://ghost.financial)    
+[Personal](https://grantdepalma.com)   
 
 
 
